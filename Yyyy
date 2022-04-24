@@ -1,0 +1,2 @@
+- isim: action-github-app-token
+  kullanır: getsentry/action-github-app-token@v1.0.6
